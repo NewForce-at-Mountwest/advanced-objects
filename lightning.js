@@ -1,6 +1,6 @@
 
 // ---- SET ONE --//
-// Create an object that represents a bill from your doctor's office. It should have the following properties: officeName, streetAddress, doctorName, patientName, visitDate, amountBilled, dueDate. You provide example values for each one.
+// Create an object that represents a bill from your doctor's office. It should have the following properties: officeName, streetAddress, doctorName, patientName, visitDate, amountBilled, dueDate.
 
 // Copy the code below and paste it above your object.
 
@@ -14,7 +14,7 @@
 
 
 // ---- SET TWO ----//
-// Output all of the key names from your doctor's office bill to the console in Chrome.
+// Use Object.keys() to output all of the key names from your doctor's office bill to the console in Chrome.
 
 // Next, output all of the key names from your doctor's office bill to the DOM inside a parent <section> element. Wrap each one in a <span> element.
 
